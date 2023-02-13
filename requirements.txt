@@ -1,0 +1,5 @@
+Tello
+djitellopy
+opencv-python
+pygame
+numpy
