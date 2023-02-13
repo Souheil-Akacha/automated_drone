@@ -2,7 +2,7 @@
 """
 Created on Mon Apr  8 19:10:49 2019
 
-@author: Dr. Tarik Elamsy
+@author: Souheil Akacha
 """
 """ Maintains the Tello display and moves it through the keyboard keys.
         Press escape key to quit.
